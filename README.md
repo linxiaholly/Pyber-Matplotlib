@@ -1,6 +1,5 @@
 # Pyber-Matplotlib
 ### Pyber - Jupyter Notebook
-* [Click here for Notebook](/Pyber_starter.ipynb)
+* [Click here for Notebook](/pyber_starter.ipynb)
 ### Bubble Plot of Ride Sharing Data
-![Bubble Plot of Ride Sharing Data](/'Pyber Ride sharing Bubble Plot'.png)
-![Bubble Plot](Pyber Ride sharing Bubble Plot.png)
+![Bubble Plot](/Pyber%20Ride%20sharing%20Bubble%20Plot.png)
